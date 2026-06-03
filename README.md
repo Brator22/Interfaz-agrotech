@@ -1,4 +1,4 @@
-# 🌱 AgroTech Dashboard
+# AgroTech Dashboard
 
 Sistema de monitoreo agrícola distribuido con interfaz táctil para **Raspberry Pi 4/5**, comunicación **MQTT** y sensores **ESP32**.
 
