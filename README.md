@@ -233,7 +233,3 @@ paho-mqtt>=1.6.1
 ```
 
 ---
-
-## Licencia
-
-Proyecto privado — Quindío, Colombia 🇨🇴
